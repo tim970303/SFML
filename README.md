@@ -1,7 +1,10 @@
-# Visual studio setting
+## Visual studio setting
 Click on project property
+
 C/C++ -> general -> Additional Include directory -> SFML-2.5.1\include
+
 C/C++ -> preprocessor -> preprocessor definition -> SFML_STATIC
+
 Linker -> general -> Additional Library directory -> SFML-2.5.1\lib
 
 Linker -> input ->  
