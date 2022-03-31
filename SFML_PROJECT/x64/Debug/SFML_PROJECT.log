@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  SFML_PROJECT.cpp
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : fatal error LNK1112: 模組電腦類型 'x86' 與目標電腦類型 'x64' 衝突
